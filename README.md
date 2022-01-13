@@ -1,4 +1,4 @@
-##Fetching DuckDuckGo Instant Answers API
+## Fetching DuckDuckGo Instant Answers API
 
 [https://api.duckduckgo.com/api](https://api.duckduckgo.com/api)
 
